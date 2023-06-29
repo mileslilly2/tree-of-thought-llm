@@ -1,4 +1,5 @@
-python run.py \
+python /content/tree-of-thought-llm/run.py
+ \
     --task game24 \
     --task_file_path 24.csv \
     --task_start_index 900 \
